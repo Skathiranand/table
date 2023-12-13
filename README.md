@@ -112,4 +112,4 @@ Execute the program
 </html>
 ```
 ### OUPUT
-![Alt text](table.png)
+![Alt text](TABLE.png)
