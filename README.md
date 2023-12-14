@@ -24,7 +24,7 @@ Execute the program
 </center>
 <br>
 <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
-    <caption><b>SLOT TIME TABLE - KEERTHIVASAN (23014067)</b></caption> -
+    <caption><b>SLOT TIME TABLE - KATHIR ANAND (23013711)</b></caption> -
     <tr align="center">
         <th bgcolor="yellow">Day/Time</th>
         <th bgcolor="yellow">Monday</th>
@@ -112,6 +112,6 @@ Execute the program
 </html>
 ```
 ### OUTPUT
-![Alt text](TABLE.png)
+![Alt text](table.png)
 ### RESULT:
 The table has created successfully.
