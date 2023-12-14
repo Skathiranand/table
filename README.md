@@ -111,5 +111,7 @@ Execute the program
 </body>
 </html>
 ```
-### OUPUT
+### OUTPUT
 ![Alt text](TABLE.png)
+### RESULT:
+The table has created successfully.
